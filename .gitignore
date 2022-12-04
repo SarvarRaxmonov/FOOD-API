@@ -3,5 +3,5 @@
 *.dir
 *.sqlite3
 
-/food_api/.vscode/
+/food_api/.vscode/*
 

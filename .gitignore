@@ -1,0 +1,7 @@
+*.bak
+*.dat
+*.dir
+*.sqlite3
+
+/food_api/.vscode/
+
